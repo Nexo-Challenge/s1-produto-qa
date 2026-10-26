@@ -1,0 +1,1 @@
+Exportar pitch/documento em PDF único; revisar oito itens da rubrica e conferir o arquivo antes do envio.
